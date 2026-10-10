@@ -1,55 +1,80 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="liamm — systems in motion" width="100%" />
+  <img src="./assets/profile-header.svg" alt="LIAMM // operator console" width="100%" />
 </div>
 
-<h1 align="center">liamm</h1>
-
-<p align="center">
-  <code>software · automation · infrastructure</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ynotliam">github</a>
-  ·
-  <a href="https://github.com/ynotliam?tab=repositories">projects</a>
-  ·
-  <a href="https://github.com/ynotliam?tab=stars">starred</a>
-</p>
-
----
-
-### `now() == "building with intent"`
-
-I like turning fuzzy ideas into systems that are **useful, observable, and hard to break**.
-
 ```text
-focus       reliable software + practical automation
-mode        curious, iterative, quietly persistent
-principle   make it work → make it clear → make it last
+┌─[ liamm@github ]──────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  STATUS       ONLINE                                                        │
+│  ROLE         builder / automator / systems thinker                         │
+│  DEFAULT      curiosity → prototype → verify → ship                        │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### signal board
+<p align="center">
+  <code>SOFTWARE</code> &nbsp; <code>AUTOMATION</code> &nbsp; <code>INFRASTRUCTURE</code>
+</p>
 
-| signal | status |
+> I turn vague problems into small systems with clear edges, useful signals, and a way back when something goes wrong.
+
+## // live configuration
+
+```yaml
+operator:   liamm
+workspace:   github
+energy:      quietly persistent
+shipping:    small increments
+quality:     make it observable
+anti-pattern: "works on my machine"
+```
+
+## // current orbit
+
+- **AI agents** — making tools that can reason, act, and report honestly
+- **Developer tooling** — removing friction from the path between idea and proof
+- **DevOps workflows** — repeatable operations with safe failure modes
+- **Interfaces** — useful things should also feel intentional
+
+## // design constraints
+
+```diff
++ prefer reversible changes
++ automate repetition
++ document the decision, not just the command
++ verify the result, not just the process
+- hide uncertainty behind confident language
+```
+
+## // signal
+
+| channel | reading |
 | :--- | :--- |
-| learning | always on |
-| shipping | one useful increment at a time |
-| documentation | part of the build |
-| “works on my machine” | not an acceptance criterion |
+| learning | `always-on` |
+| building | `one useful increment` |
+| debugging | `facts first` |
+| documentation | `part of the system` |
 
-### operating principles
-
-- Prefer small, reversible changes.
-- Automate the boring parts, then verify the automation.
-- Treat observability as a feature.
-- Leave systems clearer than I found them.
-
-### currently exploring
-
-`AI agents` · `developer tooling` · `DevOps workflows` · `clean interfaces` · `reliable automation`
-
+<details>
+<summary><b>open the transmission log</b></summary>
 <br />
 
+```text
+[01] find the real problem
+[02] reduce the surface area
+[03] build the smallest useful thing
+[04] measure what happened
+[05] leave the next person a map
+```
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/ynotliam?tab=repositories">[ browse projects ]</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ynotliam?tab=stars">[ inspect signals ]</a>
+</p>
+
 <div align="center">
-  <sub>Built with curiosity. Verified with evidence.</sub>
+  <sub>built with curiosity // operated with evidence</sub>
 </div>
